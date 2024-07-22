@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "CardGame": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "CardGame2": {
+      "commandName": "Executable"
+    }
+  }
+}

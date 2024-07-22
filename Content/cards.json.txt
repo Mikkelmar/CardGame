@@ -1,0 +1,13 @@
+[
+    { "className": "SummonSpell", "id": "summon_spell" },
+    { "className": "FrostBolt", "id": "frost_bolt" },
+    { "className": "SwordSmith", "id": "sword_smith" },
+    { "className": "GrandSoldier", "id": "grand_soldier" },
+    { "className": "ManaGiant", "id": "mana_giant" },
+    { "className": "ManaMage", "id": "mana_mage" },
+    { "className": "SummonerSkeleton", "id": "summoner_skeleton" },
+    { "className": "MinionBuffer", "id": "minion_buffer" },
+    { "className": "SpellSlinger", "id": "spell_slinger" },
+    { "className": "Bot", "id": "bot" },
+    { "className": "DrawAndDeathMinion", "id": "draw_and_death_minion" }
+]
