@@ -1,0 +1,5 @@
+{
+  "Name": "aa",
+  "HeroPower": 1,
+  "DeckContents": "CardGame.Objects.Cards.Minions.BeastEye, CardGame.Objects.Cards.Minions.LifeGiver, CardGame.Objects.Cards.Minions.OverwhelimgPower, CardGame.Objects.Cards.Minions.Archer, CardGame.Objects.Cards.Minions.DarkAprentice, CardGame.Objects.Cards.Minions.BeastEggLayer, CardGame.Objects.Cards.Minions.BeastEggLayer, CardGame.Objects.Cards.Minions.GoblinTrader, CardGame.Objects.Cards.Minions.NecroticPotion, CardGame.Objects.Cards.Minions.DoubleShot, CardGame.Objects.Cards.Minions.DoubleShot, CardGame.Objects.Cards.Minions.ExplosiveShot, CardGame.Objects.Cards.Minions.ExplosiveShot"
+}

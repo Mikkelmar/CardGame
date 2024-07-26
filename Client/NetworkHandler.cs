@@ -50,12 +50,13 @@ namespace CardGame.Client
             _gameClient.SendMessageAsync(JsonConvert.SerializeObject(message)).Wait();
         }
         
-        public void SendCardOptionSelected(string uniqueInstanceId)
+        public void SendCardOptionSelected(string uniqueInstanceId, string targetID = "null")
         {
             var message = new
             {
                 type = "CardOptionSelected",
                 cardID = uniqueInstanceId,
+                targetID = targetID,
             };
             _gameClient.SendMessageAsync(JsonConvert.SerializeObject(message)).Wait();
         }

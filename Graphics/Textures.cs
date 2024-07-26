@@ -53,7 +53,11 @@ namespace CardGame.Graphics
             hungryDemon, ratSwarm, polyMorph, lifesteal, discordHero, mageHero2, NecroHero, MagerHero1, NatureHero, 
             warlockHero, rougeHero, Souldrain, ArcherHero, orderHero3,flame_fireAnimation, fatuigeCard, X, flame_fireAnimationWhite, 
             flame_fireAnimationPurple, flame_fireAnimationBlue, Flaem_of_Frenzy, dragonRider, annoying_guard, DrainLife, 
-            GhastSmall, Skelomancer, RedEye, darkShwirl, Maroth;
+            GhastSmall, Skelomancer, RedEye, darkShwirl, Maroth, gemCreature, soldier, treeSpirit, cub2, cub, statsSwapper, 
+            fridaCard, Priest_Card, tribeTag, FlameSplitter, OutworldersIcon, outworlders_card, flameImp, impOrb, impFlame, 
+            imp, fireImp, femaleImp, DemonicPowers, EvilFairy, IronClaw, WeaveConsumer, soulSplitter, Legion, contractBinder,
+            AmberDemon, Necroticcreature, BoneGrower, BlessingBeast, DevilInABox, DemonicMirror, DemonSummoner, DoomWarrior, 
+            potionMaster, SpellGiver, lifesuckingHorror;
 
 
         public static SpriteFont font, font_cardo, font_robortoBold;
@@ -111,8 +115,8 @@ namespace CardGame.Graphics
             flame_fireAnimationWhite = g.Content.Load<Texture2D>("Art/flame_fireAnimationWhite");
             flame_fireAnimationBlue = g.Content.Load<Texture2D>("Art/flame_fireAnimationBlue");
             flame_fireAnimationPurple = g.Content.Load<Texture2D>("Art/flame_fireAnimationPurple");
+            outworlders_card = g.Content.Load<Texture2D>("Art/outworlders_card");
 
-            
 
             NatureIcon = g.Content.Load<Texture2D>("Art/NatureIcon");
             DiscordIcon = g.Content.Load<Texture2D>("Art/DiscordIcon");
@@ -120,8 +124,8 @@ namespace CardGame.Graphics
             ArcaneIcon = g.Content.Load<Texture2D>("Art/ArcaneIcon");
             OrderIcon = g.Content.Load<Texture2D>("Art/OrderIcon");
             NecroticIcon = g.Content.Load<Texture2D>("Art/NecroticIcon");
+            OutworldersIcon = g.Content.Load<Texture2D>("Art/outworldersIcon");
 
-            
 
             CA_runeGolem = g.Content.Load<Texture2D>("Art/rune golem");
             CA_Themzam = g.Content.Load<Texture2D>("Art/Themzam");
@@ -271,16 +275,46 @@ namespace CardGame.Graphics
             RedEye = g.Content.Load<Texture2D>("Art/RedEye");
             darkShwirl = g.Content.Load<Texture2D>("Art/darkShwirl");
             Maroth = g.Content.Load<Texture2D>("Art/Maroth");
+            gemCreature = g.Content.Load<Texture2D>("Art/gemCreature");
+            soldier = g.Content.Load<Texture2D>("Art/soldier");
+            treeSpirit = g.Content.Load<Texture2D>("Art/treeSpirit");
+            cub2 = g.Content.Load<Texture2D>("Art/cub2");
+            cub = g.Content.Load<Texture2D>("Art/cub");
+            statsSwapper = g.Content.Load<Texture2D>("Art/statsSwapper");
+            fridaCard = g.Content.Load<Texture2D>("Art/fridaCard");
+            Priest_Card = g.Content.Load<Texture2D>("Art/Priest_Card");
+            tribeTag = g.Content.Load<Texture2D>("Art/tribeTag");
+            FlameSplitter = g.Content.Load<Texture2D>("Art/FlameSplitter");
+            flameImp = g.Content.Load<Texture2D>("Art/flameImp");
+            impOrb = g.Content.Load<Texture2D>("Art/impOrb");
+            impFlame = g.Content.Load<Texture2D>("Art/impFlame");
+            imp = g.Content.Load<Texture2D>("Art/imp");
+            fireImp = g.Content.Load<Texture2D>("Art/fireImp");
+            femaleImp = g.Content.Load<Texture2D>("Art/femaleImp");
+            DemonicPowers = g.Content.Load<Texture2D>("Art/DemonicPowers");
+            EvilFairy = g.Content.Load<Texture2D>("Art/EvilFairy");
+            IronClaw = g.Content.Load<Texture2D>("Art/IronClaw");
+            WeaveConsumer = g.Content.Load<Texture2D>("Art/WeaveConsumer");
+            soulSplitter = g.Content.Load<Texture2D>("Art/soulSplitter");
+            Legion = g.Content.Load<Texture2D>("Art/Legion");
+            contractBinder = g.Content.Load<Texture2D>("Art/contractBinder");
+            AmberDemon = g.Content.Load<Texture2D>("Art/AmberDemon");
+            Necroticcreature = g.Content.Load<Texture2D>("Art/Necroticcreature");
+            BoneGrower = g.Content.Load<Texture2D>("Art/BoneGrower");
+            BlessingBeast = g.Content.Load<Texture2D>("Art/BlessingBeast");
+            DevilInABox = g.Content.Load<Texture2D>("Art/DevilInABox");
+            DemonicMirror = g.Content.Load<Texture2D>("Art/DemonicMirror");
+            DemonSummoner = g.Content.Load<Texture2D>("Art/DemonSummoner");
+            DoomWarrior = g.Content.Load<Texture2D>("Art/DoomWarrior");
+            potionMaster = g.Content.Load<Texture2D>("Art/potionMaster");
+            SpellGiver = g.Content.Load<Texture2D>("Art/SpellGiver");
+            lifesuckingHorror = g.Content.Load<Texture2D>("Art/lifesuckingHorror");
 
             
 
 
 
-
-
-
-
-            Minion_Board_Icon = g.Content.Load<Texture2D>("Art/Minion_format");
+                        Minion_Board_Icon = g.Content.Load<Texture2D>("Art/Minion_format");
             powerShield = g.Content.Load<Texture2D>("Art/powerShield");
             taunt = g.Content.Load<Texture2D>("Art/taunt");
             poison = g.Content.Load<Texture2D>("Art/poison");

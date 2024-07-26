@@ -19,6 +19,7 @@ namespace CardGame.Objects.Collection
         private Dictionary<Card.Faction, float> factionYCoordinates = new Dictionary<Card.Faction, float>();
         private static Sprite NatureIcon = new Sprite(Textures.NatureIcon);
         private static Sprite NecroticIcon = new Sprite(Textures.NecroticIcon);
+        private static Sprite OutworldersIcon = new Sprite(Textures.OutworldersIcon); 
         private static Sprite OrderIcon = new Sprite(Textures.OrderIcon);
         private static Sprite WildIcon = new Sprite(Textures.WildIcon);
         private static Sprite DiscordIcon = new Sprite(Textures.DiscordIcon);
@@ -83,6 +84,9 @@ namespace CardGame.Objects.Collection
                             break;
                         case Card.Faction.Wild:
                             icon = WildIcon;
+                            break;
+                        case Card.Faction.Outworlders:
+                            icon = OutworldersIcon;
                             break;
                     }
                     if (icon != null)

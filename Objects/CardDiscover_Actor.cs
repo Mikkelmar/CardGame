@@ -18,7 +18,8 @@ namespace CardGame.Objects
         protected override void Activated(Game1 g)
         {
             //The player tries to active discover option
-            if(g.gameBoard.isPlayer != g.gameBoard.gameHandler.ActivePlayer)
+            if(g.gameBoard.isPlayer != g.gameBoard.gameHandler.ActivePlayer || 
+                g.gameBoard.gameHandler.optionSelectManager.Peek().hide)
             {
                 return;
             }
@@ -27,7 +28,8 @@ namespace CardGame.Objects
             {
                 g.gameBoard.gameHandler.SelectingTarget = true;
                 g.gameBoard.gameHandler.targeter = this;
-                g.gameBoard.gameHandler.optionSelectManager.ToggleHide();
+                g.gameBoard.gameHandler.activeOptionSelection = false;
+                g.gameBoard.gameHandler.optionSelectManager.Peek().ToggleHide(g);
             }
             else
             {
@@ -37,7 +39,12 @@ namespace CardGame.Objects
         protected virtual void PlayTheCard(Game1 g)
         {
             //g.gameBoard.gameHandler.PlayCard(g, sourceCard, sourceCard.belongToPlayer);
-            g.gameBoard.networkHandler.SendCardOptionSelected(card.UniqueID);
+            string target = "null";
+            if (card.requireTargets)
+            {
+                target = card.target.UniqueID;
+            }          
+            g.gameBoard.networkHandler.SendCardOptionSelected(card.UniqueID, target);
             //g.gameBoard.gameHandler.ActivateCard(g, card, card.belongToPlayer);
 
         }
@@ -46,11 +53,12 @@ namespace CardGame.Objects
             Card targetCard = targetActor.card;
             if (card.isValidTarget(g, targetCard))
             {
-                card.getTarget(g, (MinionCard)targetCard);
-                if (card.belongToPlayer == g.gameBoard.isPlayer)
-                {
-                    g.gameBoard.networkHandler.SendTargetCardWithCardMessage(card.UniqueID, targetCard.UniqueID);
-                }
+                //card.getTarget(g, (MinionCard)targetCard);
+                card.target = targetCard;
+                //if (card.belongToPlayer == g.gameBoard.isPlayer)
+                //{
+                  //  g.gameBoard.networkHandler.SendTargetCardWithCardMessage(card.UniqueID, targetCard.UniqueID);
+                //}
                 PlayTheCard(g);
                 g.gameBoard.gameHandler.SelectingTarget = false;
                 g.gameBoard.gameHandler.targeter = null;

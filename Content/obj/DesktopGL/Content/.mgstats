@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinWarrior.jpg","C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/bin/DesktopGL/Content/Art/goblinWarrior.xnb","TextureProcessor","Texture2DContent",46328,1048661,0,1287611
+"C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinwarrior.png","C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/bin/DesktopGL/Content/Art/goblinwarrior.xnb","TextureProcessor","Texture2DContent",57503,1048661,0,0267616
+"C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/largeSpider.jpg","C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/bin/DesktopGL/Content/Art/largeSpider.xnb","TextureProcessor","Texture2DContent",51198,1048661,0,0219927
+"C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/largeSpider.png","C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/bin/DesktopGL/Content/Art/largeSpider.xnb","TextureProcessor","Texture2DContent",388053,1048661,0,0403092

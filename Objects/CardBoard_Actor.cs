@@ -114,7 +114,30 @@ namespace CardGame.Objects
                 //The player tries to attack with this card
                 if (!((MinionCard)card).CanAttackNow)
                 {
-                    Debug.WriteLine("You have allready attacked with this minion");
+                    string feedBacktext = "You cannot attack with this minion";
+                    if (((MinionCard)card).Frozen)
+                    {
+                        feedBacktext = "This minion is frozen";
+                    }
+                    else if (((MinionCard)card).sleeping && !((MinionCard)card).Rush && !((MinionCard)card).Charge)
+                    {
+                        feedBacktext = "This minion needs a turn to get ready";
+                    }
+                    else if(((MinionCard)card).haveAttacked)
+                    {
+                        feedBacktext = "This minion have allready attacked";
+                    }
+
+                    TextPopup _textPopup = new TextPopup(
+                        feedBacktext,
+                        duration: 2f, // Text will stay for 2 seconds
+                        x: Drawing.WINDOW_WIDTH / 2,
+                        y: Drawing.WINDOW_HEIGHT / 2,
+                        scale: .6f,
+                        color: Color.White
+                    );
+                    g.gameBoard.objectManager.Add(_textPopup, g);
+                    g.gameBoard.queueManager.EnqueueItem(new GameAction((g) => g.soundManager.PlaySound("playSound")));
                     return;
                 }
                 g.soundManager.PlaySound("readyToAttack");
@@ -131,8 +154,35 @@ namespace CardGame.Objects
         {
             Card targetCard = targetActor.card;
             //Check if can attack
-            if(!card.belongToPlayer.Board.canAttackTarget(g, card, targetCard))
+            string feedBackText = "Not a valid target";
+            if (!card.belongToPlayer.Board.canAttackTarget(g, card, targetCard))
             {
+                if (card.belongToPlayer != g.gameBoard.isPlayer)
+                {
+                    feedBackText = "This is not your minion";
+                }
+                else if (card.belongToPlayer == targetCard.belongToPlayer)
+                {
+                    feedBackText = "Cannot target your own minions";
+                }
+                else if(!targetCard.belongToPlayer.Board.canAttack(targetCard))
+                {
+                    feedBackText = "A minion with taunt is in the way";
+                }
+                else if(targetCard is PlayerCard && ((MinionCard)card).sleeping && !((MinionCard)card).Charge)
+                {
+                    feedBackText = "Can only attack minions first turn with rush.";
+                }
+                TextPopup _textPopup = new TextPopup(
+                        feedBackText,
+                        duration: 2f,
+                        x: Drawing.WINDOW_WIDTH / 2,
+                        y: Drawing.WINDOW_HEIGHT / 2,
+                        scale: .6f,
+                        color: Color.White
+                    );
+                g.gameBoard.objectManager.Add(_textPopup, g);
+                g.gameBoard.queueManager.EnqueueItem(new GameAction((g) => g.soundManager.PlaySound("playSound")));
                 return;
             }
             //attack

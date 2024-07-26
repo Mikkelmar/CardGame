@@ -40,7 +40,15 @@ namespace CardGame.Objects
         }
         protected void Activated(Game1 g)
         {
-            g.collectionPage.collectionManager.deckBuilder.AddCard(g,card);
+            if (g.collectionPage.collectionManager.deckBuilder.AddCard(g, card))
+            {
+                g.soundManager.PlaySound("addToHand");
+            }
+            else
+            {
+                g.soundManager.PlaySound("playSound");
+            }
+            
         }
         public virtual void Clicked(float x, float y, Game1 g)
         {

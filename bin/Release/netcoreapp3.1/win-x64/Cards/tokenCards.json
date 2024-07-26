@@ -1,0 +1,146 @@
+[
+  {
+    "className": "CardGame.Objects.Cards.Minions.WitherSkeleton",
+    "id": "WitherSkeleton"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AssassinToken",
+    "id": "AssassinToken"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DamagedSoldier",
+    "id": "DamagedSoldier"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GiantSpider",
+    "id": "GiantSpider"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HelperBot",
+    "id": "HelperBot"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Goblin",
+    "id": "Goblin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AddSpell",
+    "id": "AddSpell"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Deal2Damage",
+    "id": "Deal2Damage"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Deal8Damage",
+    "id": "Deal8Damage"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SummonSkeletonSpell",
+    "id": "SummonSkeletonSpell"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SummonSpiderSpell",
+    "id": "SummonSpiderSpell"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BuffMinions",
+    "id": "BuffMinions"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Whelp",
+    "id": "Whelp"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SummonWhelpSpell",
+    "id": "SummonWhelpSpell"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BasicWeapon",
+    "id": "BasicWeapon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TauntCreature",
+    "id": "TauntCreature"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GainMana",
+    "id": "GainMana"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DrawCards",
+    "id": "DrawCards"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GiantSnake",
+    "id": "GiantSnake"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TauntImage",
+    "id": "TauntImage"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SummonSpirits",
+    "id": "SummonSpirits"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SpiritBuffMinions",
+    "id": "SpiritBuffMinions"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LegendaryStrength",
+    "id": "LegendaryStrength"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LegendaryMissiles",
+    "id": "LegendaryMissiles"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LegendaryElementals",
+    "id": "LegendaryElementals"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LegendaryElemental",
+    "id": "LegendaryElemental"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Sheep",
+    "id": "Sheep"
+  },
+  {
+    "className": "CardGame.Cards.PlayerCard",
+    "id": "PlayerCard"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Coin",
+    "id": "Coin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Rat",
+    "id": "Rat"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaGrowthDraw",
+    "id": "ManaGrowthDraw"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaGrowthGain",
+    "id": "ManaGrowthGain"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BasicDaggers",
+    "id": "BasicDaggers"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Soldier",
+    "id": "Soldier"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Cub",
+    "id": "Cub"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TreeSpirit",
+    "id": "TreeSpirit"
+  }
+]

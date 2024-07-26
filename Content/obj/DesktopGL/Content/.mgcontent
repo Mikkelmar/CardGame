@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/adventure.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/agentofWar.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/amarillo.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/AmberDemon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/angry ghost.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/angryGoblin1.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/angryMage.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/animalFriend.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/animalHealer.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/annoying guard.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/anvil.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/arcane_card.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/arcaneBlastGem.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/arcaneDrake.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ArcaneIcon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ArcherHero.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/armourIcon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ArrowHP.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/arrowPointer.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/assassin.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/assassinBow.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/assassinGoblin.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/assassinToken2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/atgus.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/attack.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/aura.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/auraBless.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/battleSmith.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/battleSmith2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/battleSmith3.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bearRider2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/beastForm.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/BeastMaster.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/beastParasyte.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bindingDemon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/BiteAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bladeOfTheTemple.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/BlastingDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/blastMech.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/blastSpell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/BlessAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/blessed.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/BlessingBeast.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/blessLifesteal.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/blizzard.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/blood.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bloodCopy.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bloodCultist.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bloodlust.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bloodlust2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bloodPerson.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/BlueCastAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/blueMech.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bonecolector.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/BoneGrower.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bot.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/bullet.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/buzzard.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/callOfTheWild.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/CamptainOrc.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cannon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/canonFire.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/canonMech.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/captainFist.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/card format.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/card format_minion.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cardback.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/CargoExplorer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ChargeRider.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/chillGemDragon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cleric.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/clockworkMachine.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ClockWorkUnit.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/commander.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/commander2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/common.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/contractBinder.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/conuring.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/coolNevcromancer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/coolTroll.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/coolTroll2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/copyFiend.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Corruption.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/craftSpell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/crazedCultist.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/crockDefender.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cruul1.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cruul2.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cruuulWorshiper.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cryptStalker.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/CrystalHitAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cub.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cub2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/cuteDarkMage.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/CuteLittleGuy.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/damageSpell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/darkAprentice.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DarkArcher.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/darkBlast.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/darkMage.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DarkMageOrb.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/darkShwirl.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/deathBuffer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/deathparrot.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/deathPotion.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/defender.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DemonicMirror.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DemonicPowers.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DemonSummoner.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DevilInABox.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DieCard.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Discord_card.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/discordHero.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DiscordIcon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/discoverMage.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DoomWarrior.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/doubleBlades.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/dragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DragonQueen.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/dragonRider.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/dragonRockCollector.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/dragonSmith.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/dragonSpellCaster.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/dragonSpellSmith.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/DrainLife.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/dreadlitch.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/drinkGoblin.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/drums.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/drums2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ecnahnted stone golem 1.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ecnahnted stone golem 2.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/eggDragonGirl.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/eggDragonGirl2.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/elderLitch.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/elementalWeapon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/emeraldDrake.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/EmptyMana.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/epic knight.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/epic.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/epicDruid.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/EpicSoldierGuy.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/EvilFairy.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ExplotionAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/EyeSpell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/FacelessSurpent.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fallenTears.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/falseLife.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fanOfKnives.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fatuigeCard.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/femaleImp.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fieldmagic.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fieldMech.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fieldMedic.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/FireAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fireball1.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fireball2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fireImp.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/firespell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Flaem_of_Frenzy.PNG</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/flame_fireAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/flame_fireAnimationBlue.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/flame_fireAnimationPurple.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/flame_fireAnimationWhite.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/flameImp.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/flameMage.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/FlameSplitter.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/flamestrike.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fleshwalker.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ForbiddenKnowledge.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/forestCall.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/forestCreature.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ForestDefender.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/forestFather.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/forestGiant.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ForestKnight.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/forestMana.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/forestSoul.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ForestTeacher.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ForestTomb.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/freshCut.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/fridaCard.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/frostbolt.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/frostDrake.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/frostNova2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/FrostRatBear.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/FrostSkeleton.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/frozenMinion.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/FullDeck.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/gateGuard.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/gateKeeper.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/gemCreature.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ghast.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/GhastSmall.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ghost.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/giantMossy.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/giantSkeleton.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/gigaDrill.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/GloriousRhaino.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/glowFly.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/GlowTree.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinarm2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinArmy1.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblincool.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinHunter.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinInArmour.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinPack2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinSmall.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinSmall2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinSmall3.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinSpellCaster.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinTrader.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinWarrior.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinwarrior.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/goblinWarrior2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/gonlinrider.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/greatsword.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/greedSpell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/GreenCastAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/GreenDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/handBuffer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/HealAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/healing.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/healingAura.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/hellfire.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/hillshaman.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/hillshaman2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/HolyAura.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/holyKnowledge.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/holyOrbs.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/holySpell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/hungryDemon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/hungryDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/hungryDragon2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/hunter arrow.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/hyena.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/icebolt.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/IceBoltAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/imp.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/impFlame.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/impOrb.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/infoBroker2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/inTheFlesh2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/inventer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/IronClaw.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ironForge2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/JungleGirl.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/knight.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/knowledgeDrake.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/largeSnake.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/largeSpider.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/largeSpider.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lavaForge.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/legendary.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/legendaryBoarder.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/LegendaryFrostMage.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Legion.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lifesteal.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lifesuckingHorror.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lightBlast.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lizzardWhip.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lock.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lonlyKnight.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lootGoblin1.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lootGoblin2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lootHoarder.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/lurkinDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/mace.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/mage goblin.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/mageHero2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/MagerHero1.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/mageSpell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/magic missiles.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/magic skeleton.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/magicEgg.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/mana.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/manaBurst.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ManaGem.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ManaGrowth.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/manaRiver.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/manawyrm.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/mapWriter.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Maroth.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Merchant.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/meril.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Minion_format.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/MissileAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/moltenBlast.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/MoonMaiden.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Nature_card.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/NatureHero.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/NatureIcon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/necroDancer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/necroGirl.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/NecroHero.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/necroLizzard.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/necroSkeletonCaster.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/necrotic_card.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Necroticcreature.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/NecroticIcon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/NecroticPotion.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/nestGuard.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/newmanagement.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/OatkKeeper.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/orangeWhelp.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Order_card.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ordercard2.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/orderHero3.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/OrderIcon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/outworlders_card.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/outworldersIcon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/painBringer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/painBuffer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/painDraw.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/paladinGoblin1.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/paladinGoblin2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/paladinGoblin3.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/panther.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/PentragramAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/pogRouge.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/poison.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/poisonBottle.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/polymorph.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/polymorph2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/potionMaster.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/powerCard.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/powerShield.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/prep.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Priest_Card.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/prince.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/pristess2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ProtectiveCompanion.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/protector.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/protetiveMinion.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/puppet.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/puppetMaster.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/purpleDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/PurpleFlameAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/queen.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ragingFanatic.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/rare.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/rat.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ratSwarm.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/recruit.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/recruit2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/redbear.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/RedEye.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/RedKnight.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/RedUndeadLord.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/returnThing.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/rider.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ritual.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ritualDagger.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/robberKnife.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/RockGiant.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/rockGolem.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/rougeGirl.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/rougeHero.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/rune golem.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/rune golem2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/sacredSword.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/sanctumHealing.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/sappling.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/savageRoar.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/scorpion.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ScreamSoul.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SerpentKey.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ShadyPotion.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/sheep.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/shield.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/ShieldPower.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/shieldslam.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/shootImageArrow.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/skeleton.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/skeletonNecromancer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Skelomancer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/skull.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SlashAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/smallBlast.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SmallDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/smite.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/smithArmour.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SmithLady.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/smollDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/smuggler.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/snakePlayingInstruments.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/snakPoison.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/soldier.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Souldrain.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/soulSplitter.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/soulSuck.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spell bender.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spellBlast.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spellcastingGoblin.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SpellDamageAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SpellGiver.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spellmoon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spellSpammer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spellWizard.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spider2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spiderEgg.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spiderEggNew.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SpiderFlower.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SpinMirror.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spiritDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spirits.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/spy1.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/statsSwapper.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/StoneStatue.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/StrongGobling warrior.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/summon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/summonCard.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/summonMage.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/summonMinionsOrder.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/summonPurple.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SunAnimation.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/SwapTurtle.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/syabsyabsyab.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/taunt.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/tauntToken.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/temp_art.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/temple.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/templeGuardian.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Terror.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Themzam.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/TheWandrer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/thief.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/timespell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/TreeSapling.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/treeSpirit.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/tribeTag.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/triggerEffect.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/trollCastingSpell.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/tundraStag.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/twinDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/undead.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/undeadArmy.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/undeadArmy2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/underWOrldGate.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/UnstableMana.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/usedHeroPower.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/Vasnji.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/walkingRocks.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/warlockGiant.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/warlockHero.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/warrior.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/weapon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/weaponCrusher.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/weaponMaster.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/WeaveConsumer.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/weirdGuy.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/whisp.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/whiteDragon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/whitlwind.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/wild_card.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/WildIcon.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/wingedDemon.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/wisdom.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/witherSkeletons.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/witherSkeletons2.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/wolf.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/woodenPuppet.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/woodFrog.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/WoodWarrior.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/worldEnd.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/wrathOfSpirirts.jpg</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Art/X.png</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/File.spritefont</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/fonts/boldGame.spritefont</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/fonts/Cardo.spritefont</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/fonts/RobortoBold.spritefont</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/bookOpen.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/cardPlace4.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/curse.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/draggingCard.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/draw.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/Fire impact.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/GrowEffect.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/Healing Full.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/healspell.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/hitTarget.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/Ice attack 2.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/iceball.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/lava.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/magicfail.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/Misc 02.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/niceHit.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/normalHit.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/playSpell.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/readyToAttack.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/shootFireball.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/SpellHit.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/summoned.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/cards/warp.wav</File>
+    <File>C:/Users/mikke/source/repos/FantasyCardGame/CardGame/Content/Sounds/Hero_Attack_001.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

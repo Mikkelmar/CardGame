@@ -44,6 +44,9 @@ namespace CardGame.Objects
         protected void Activated(Game1 g)
         {
             g.collectionPage.collectionManager.deckBuilder.RemoveCard(g,card);
+            g.soundManager.PlaySound("draggingCard");
+            
+            
         }
         public virtual void Clicked(float x, float y, Game1 g)
         {

@@ -18,6 +18,8 @@ namespace CardGame.Objects
         private static Sprite WildIcon = new Sprite(Textures.WildIcon);
         private static Sprite DiscordIcon = new Sprite(Textures.DiscordIcon);
         private static Sprite ArcaneIcon = new Sprite(Textures.ArcaneIcon);
+        private static Sprite OutworldersIcon = new Sprite(Textures.OutworldersIcon);
+        
         private int page, lastPage;
         private Card.Faction factionButton;
         public SetPageButton(int value, int lastPage, Card.Faction faction)
@@ -61,7 +63,10 @@ namespace CardGame.Objects
                 case Card.Faction.Necrotic:
                     factionIcon = NecroticIcon;
                     break;
-
+                case Card.Faction.Outworlders:
+                    factionIcon = OutworldersIcon;
+                    break;
+                    
                 default:
                     factionIcon = ArcaneIcon;
                     break;

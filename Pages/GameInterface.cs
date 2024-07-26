@@ -67,11 +67,12 @@ namespace CardGame.Pages
             targeter = null;
             g.gameBoard.gameHandler.SelectingTarget = false;
             g.gameBoard.gameHandler.targeter = null;
-            if (g.gameBoard.gameHandler.activeOptionSelection)
+            if (g.gameBoard.gameHandler.optionSelectManager.Peek() != null)
             {
-                if (g.gameBoard.gameHandler.optionSelectManager.canCancel)
+                if (g.gameBoard.gameHandler.optionSelectManager.Peek().hide)
                 {
-                    //StopSelecting(g);
+                    g.gameBoard.gameHandler.optionSelectManager.Peek().ToggleHide(g);
+                    g.gameBoard.gameHandler.activeOptionSelection = true;
                 }
             }
         }

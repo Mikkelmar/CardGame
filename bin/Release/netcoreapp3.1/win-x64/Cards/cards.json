@@ -1,0 +1,922 @@
+[
+  {
+    "className": "CardGame.Objects.Cards.Minions.SummonSpell",
+    "id": "summon_spell"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FrostBolt",
+    "id": "frost_bolt"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SwordSmith",
+    "id": "sword_smith"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GrandSoldier",
+    "id": "grand_soldier"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaGiant",
+    "id": "mana_giant"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaMage",
+    "id": "mana_mage"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SummonerSkeleton",
+    "id": "summoner_skeleton"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.MinionBuffer",
+    "id": "minion_buffer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SpellSlinger",
+    "id": "spell_slinger"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Bot",
+    "id": "bot"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SpellCrafter",
+    "id": "spell_crafter"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Recruit",
+    "id": "recruit"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DeadlyInsect",
+    "id": "DeadlyInsect"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SummoningPortal",
+    "id": "SummoningPortal"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.MagicMissile",
+    "id": "MagicMissile"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.InfestedWolf",
+    "id": "InfestedWolf"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ClockworkMachine",
+    "id": "ClockworkMachine"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CityGurdian",
+    "id": "CityGurdian"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaWyrm",
+    "id": "ManaWyrm"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Spellbender",
+    "id": "Spellbender"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DragonSmith",
+    "id": "DragonSmith"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DrawSpell",
+    "id": "DrawSpell"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Balthazar",
+    "id": "Balthazar"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaBurst",
+    "id": "ManaBurst"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaGrowth",
+    "id": "ManaGrowth"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.UnderNewManagement",
+    "id": "UnderNewManagement"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ArcaneDrake",
+    "id": "ArcaneDrake"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GrowingSapling",
+    "id": "GrowingSapling"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AbnormalFleshwalker",
+    "id": "AbnormalFleshwalker"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FaceLessMimic",
+    "id": "FaceLessMimic"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FieldCleric",
+    "id": "FieldCleric"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.InformationBroker",
+    "id": "InformationBroker"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FlameStrike",
+    "id": "FlameStrike"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LightBlast",
+    "id": "LightBlast"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HunterArrow",
+    "id": "HunterArrow"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DarkAprentice",
+    "id": "DarkAprentice"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ForestGiant",
+    "id": "ForestGiant"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BoneCollector",
+    "id": "BoneCollector"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.MindControl",
+    "id": "MindControl"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Vasnji",
+    "id": "Vasnji"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LastOrders",
+    "id": "LastOrders"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HandBuffer",
+    "id": "HandBuffer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.MistCaller",
+    "id": "MistCaller"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DreadLitch",
+    "id": "DreadLitch"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ProtectiveMinion",
+    "id": "ProtectiveMinion"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BuffStrength",
+    "id": "BuffStrength"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.IronSkin",
+    "id": "IronSkin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SpellBless",
+    "id": "SpellBless"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SanctumHealing",
+    "id": "SanctumHealing"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GrandDruid",
+    "id": "GrandDruid"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FalseLife",
+    "id": "FalseLife"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Themzam",
+    "id": "Themzam"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HuntOrPray",
+    "id": "HuntOrPray"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GnomeHunter",
+    "id": "GnomeHunter"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GoodsSmugler",
+    "id": "GoodsSmugler"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GiantSpiderEgg",
+    "id": "GiantSpiderEgg"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Prep",
+    "id": "Prep"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GiantSkeleton",
+    "id": "GiantSkeleton"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CitySmith",
+    "id": "CitySmith"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ReGear",
+    "id": "ReGear"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ShieldSlam",
+    "id": "ShieldSlam"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Whirlwin",
+    "id": "Whirlwin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.RabidDog",
+    "id": "RabidDog"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BloodCultist",
+    "id": "BloodCultist"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SmallMinion2",
+    "id": "SmallMinion2"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SmallMinion1",
+    "id": "SmallMinion1"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Planetiger",
+    "id": "Planetiger"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CryptStalker",
+    "id": "CryptStalker"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Frontliner",
+    "id": "Frontliner"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TempleGuardian",
+    "id": "TempleGuardian"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ForestDefender",
+    "id": "ForestDefender"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.EnchantedGoblin",
+    "id": "EnchantedGoblin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.MovingCorpsePile",
+    "id": "MovingCorpsePile"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Ghost",
+    "id": "Ghost"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BigMinion",
+    "id": "BigMinion"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HillShaman",
+    "id": "HillShaman"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HillGiant",
+    "id": "HillGiant"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CommanderWarSpike",
+    "id": "CommanderWarSpike"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AncesterStudy",
+    "id": "AncesterStudy"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GrandDragon",
+    "id": "GrandDragon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SavageRoar",
+    "id": "SavageRoar"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DrawTaunt",
+    "id": "DrawTaunt"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Backstab",
+    "id": "Backstab"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FrostNova",
+    "id": "FrostNova"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FrostDragon",
+    "id": "FrostDragon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Argus",
+    "id": "Argus"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.NestProtecter",
+    "id": "NestProtecter"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.MechSpider",
+    "id": "MechSpider"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Crocker",
+    "id": "Crocker"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ChillStorm",
+    "id": "ChillStorm"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Moltenlavablast",
+    "id": "Moltenlavablast"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HighPristessScarlet",
+    "id": "HighPristessScarlet"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ArcaneBlast",
+    "id": "ArcaneBlast"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.PainBringer",
+    "id": "PainBringer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HealthGiant",
+    "id": "HealthGiant"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SpellGiant",
+    "id": "SpellGiant"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AgentOfWar",
+    "id": "AgentOfWar"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.RelentlessDefender",
+    "id": "RelentlessDefender"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.PainBuffer",
+    "id": "PainBuffer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DoubleDraw",
+    "id": "DoubleDraw"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.StabStabStab",
+    "id": "StabStabStab"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WoundedArcher",
+    "id": "WoundedArcher"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.InTheFlesh",
+    "id": "InTheFlesh"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.RagingFanatic",
+    "id": "RagingFanatic"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WestfoldSpy",
+    "id": "WestfoldSpy"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CrazedCultist",
+    "id": "CrazedCultist"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.UnfinishedJob",
+    "id": "UnfinishedJob"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.UnsuspectingGuard",
+    "id": "UnsuspectingGuard"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.MarkylsBlessing",
+    "id": "MarkylsBlessing"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DoubleKnife",
+    "id": "DoubleKnife"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Cruul",
+    "id": "Cruul"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.EggEater",
+    "id": "EggEater"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TempleBlade",
+    "id": "TempleBlade"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Fireball",
+    "id": "Fireball"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ReturnCard",
+    "id": "ReturnCard"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AnimalFirend",
+    "id": "AnimalFirend"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GrandBeast",
+    "id": "GrandBeast"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DoomCaller",
+    "id": "DoomCaller"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.RiotStoper",
+    "id": "RiotStoper"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Equality",
+    "id": "Equality"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HellFire",
+    "id": "HellFire"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ForestFather",
+    "id": "ForestFather"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WarDrums",
+    "id": "WarDrums"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.PackGoblin",
+    "id": "PackGoblin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AngryGoblin",
+    "id": "AngryGoblin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SpiritualCaller",
+    "id": "SpiritualCaller"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GoblinTrader",
+    "id": "GoblinTrader"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TribalCanon",
+    "id": "TribalCanon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TribeLeader",
+    "id": "TribeLeader"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BloodMagic",
+    "id": "BloodMagic"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HandDrake",
+    "id": "HandDrake"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CryptProtector",
+    "id": "CryptProtector"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SoulHarvest",
+    "id": "SoulHarvest"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.UnderWorld",
+    "id": "UnderWorld"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WildClanLeader",
+    "id": "WildClanLeader"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BeastTamer",
+    "id": "BeastTamer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BeastForm",
+    "id": "BeastForm"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AwakenDragon",
+    "id": "AwakenDragon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ForestWaterner",
+    "id": "ForestWaterner"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Weapon1",
+    "id": "Weapon1"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FrontLineGoblin",
+    "id": "FrontLineGoblin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SacredSword",
+    "id": "SacredSword"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.RitualDaggers",
+    "id": "RitualDaggers"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WarChiefGork",
+    "id": "WarChiefGork"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DeadlyPoison",
+    "id": "DeadlyPoison"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ToxicCoating",
+    "id": "ToxicCoating"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WeaponDestroyer",
+    "id": "WeaponDestroyer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ConstructionWorker",
+    "id": "ConstructionWorker"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.EmeraldDrake",
+    "id": "EmeraldDrake"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaBlast",
+    "id": "ManaBlast"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SpiritWalker",
+    "id": "SpiritWalker"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LanceKnight",
+    "id": "LanceKnight"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DeadthParrot",
+    "id": "DeadthParrot"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Swipe",
+    "id": "Swipe"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GoblinLauncher",
+    "id": "GoblinLauncher"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BloodLust",
+    "id": "BloodLust"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LifeBonds",
+    "id": "LifeBonds"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BloodForCruuul",
+    "id": "BloodForCruuul"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DyingBuffer",
+    "id": "DyingBuffer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Knife",
+    "id": "Knife"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WeaponMaster",
+    "id": "WeaponMaster"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CrusaderGoblin",
+    "id": "CrusaderGoblin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CanonGoblin",
+    "id": "CanonGoblin"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TerrorOfRedwood",
+    "id": "TerrorOfRedwood"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TwinDragon",
+    "id": "TwinDragon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WagonTransporter",
+    "id": "WagonTransporter"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.PowerMana",
+    "id": "PowerMana"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DruidOfTheWild",
+    "id": "DruidOfTheWild"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Smite",
+    "id": "Smite"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DefenceClones",
+    "id": "DefenceClones"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.SendInTheTroops",
+    "id": "SendInTheTroops"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ArmourFixer",
+    "id": "ArmourFixer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.WrathOfTheForestSpirits",
+    "id": "WrathOfTheForestSpirits"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CallOfTheWIld",
+    "id": "CallOfTheWIld"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DrawGreedFavour",
+    "id": "DrawGreedFavour"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Legendarymage",
+    "id": "Legendarymage"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BattlefieldLord",
+    "id": "BattlefieldLord"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ShadowMage",
+    "id": "ShadowMage"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GiantStatues",
+    "id": "GiantStatues"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.MageSlayer",
+    "id": "MageSlayer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ForestKeeper",
+    "id": "ForestKeeper"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.NecroticPotion",
+    "id": "NecroticPotion"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.OverwhelimgPower",
+    "id": "OverwhelimgPower"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Archer",
+    "id": "Archer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LifeGiver",
+    "id": "LifeGiver"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DoubleShot",
+    "id": "DoubleShot"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BeastEye",
+    "id": "BeastEye"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ExplosiveShot",
+    "id": "ExplosiveShot"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HillScaleLizzard",
+    "id": "HillScaleLizzard"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BeastEggLayer",
+    "id": "BeastEggLayer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Polymorph",
+    "id": "Polymorph"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ChanelSell",
+    "id": "ChanelSell"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManaDuplication",
+    "id": "ManaDuplication"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.RiftTear",
+    "id": "RiftTear"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ManyHeadedDragon",
+    "id": "ManyHeadedDragon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HungryDragon",
+    "id": "HungryDragon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GloriousRhaino",
+    "id": "GloriousRhaino"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GoblinArmy",
+    "id": "GoblinArmy"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.PeaceMaker",
+    "id": "PeaceMaker"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LonelyKnight",
+    "id": "LonelyKnight"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BothDraw",
+    "id": "BothDraw"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.RatSwarm",
+    "id": "RatSwarm"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.PowerUnleashed",
+    "id": "PowerUnleashed"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Statue",
+    "id": "Statue"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.TheTwilightPrince",
+    "id": "TheTwilightPrince"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DarkBlast",
+    "id": "DarkBlast"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.KnifeFlurry",
+    "id": "KnifeFlurry"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ChargeRider",
+    "id": "ChargeRider"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.CityCleric",
+    "id": "CityCleric"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ForgeSummon",
+    "id": "ForgeSummon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.BattleSmith",
+    "id": "BattleSmith"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.RollingAmarillo",
+    "id": "RollingAmarillo"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.LitchDrain",
+    "id": "LitchDrain"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.AuraBless",
+    "id": "AuraBless"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.OathKeeper",
+    "id": "OathKeeper"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FallenTears",
+    "id": "FallenTears"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.GateKeeper",
+    "id": "GateKeeper"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.ShieldBot",
+    "id": "ShieldBot"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HungryDemon",
+    "id": "HungryDemon"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Lifedrain",
+    "id": "Lifedrain"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DragonWhelp",
+    "id": "DragonWhelp"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DragonTamer",
+    "id": "DragonTamer"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FleshRemaker",
+    "id": "FleshRemaker"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.HauntingGhast",
+    "id": "HauntingGhast"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FrenzyFlamed",
+    "id": "FrenzyFlamed"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.Margoth",
+    "id": "Margoth"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.DeathCaller",
+    "id": "DeathCaller"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.StatSwapper",
+    "id": "StatSwapper"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.PowerCorupter",
+    "id": "PowerCorupter"
+  },
+  {
+    "className": "CardGame.Objects.Cards.Minions.FlameSplitter",
+    "id": "FlameSplitter"
+  }
+]

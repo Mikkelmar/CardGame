@@ -28,6 +28,7 @@ namespace CardGame.Objects
 
         private static Sprite powerCard = new Sprite(Textures.powerCard);
         private static Sprite manaIcon = new Sprite(Textures.Mana);
+        private static Sprite tribeIcon = new Sprite(Textures.tribeTag);
         public float scale = 1f;
         protected bool drawManaCost = false;
         protected static Sprite blood = new Sprite(Textures.Health), attack = new Sprite(Textures.Attack);
@@ -245,6 +246,10 @@ namespace CardGame.Objects
             {
                 cardBase = new Sprite(Textures.Discord_card);
             }
+            if (card.faction == Card.Faction.Outworlders)
+            {
+                cardBase = new Sprite(Textures.outworlders_card);
+            }
             
 
             float Width = size;
@@ -351,7 +356,9 @@ namespace CardGame.Objects
                 //tribe
                 if (((MinionCard)card).tribe != Tribe.None)
                 {
-                    Drawing.DrawText(((MinionCard)card).tribe.ToString(), X + Width / 2, Y + (735 * resize), scale: 2.5f * resize, layerDepth: depth * 0.1f, color: Color.Black, drawCenter: true);
+                    Drawing.DrawText(((MinionCard)card).tribe.ToString(), X + Width / 2, Y + (728 * resize), scale: 2.5f * resize, layerDepth: depth * 0.1f, color: Color.Black, drawCenter: true);
+       
+                    tribeIcon.Draw(new Vector2(X + 60 * resize, Y + (718 * resize)), 500* resize  , 71 * resize*1.4f, layerDepth: depth * 0.9f);
                 }
             }
             if (card is WeaponCard)

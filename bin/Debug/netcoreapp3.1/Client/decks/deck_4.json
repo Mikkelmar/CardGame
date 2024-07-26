@@ -1,0 +1,5 @@
+{
+  "Name": "aa",
+  "HeroPower": 3,
+  "DeckContents": "CardGame.Objects.Cards.Minions.SpiritWalker, CardGame.Objects.Cards.Minions.CanonGoblin, CardGame.Objects.Cards.Minions.CanonGoblin, CardGame.Objects.Cards.Minions.Weapon1, CardGame.Objects.Cards.Minions.Weapon1, CardGame.Objects.Cards.Minions.ReturnCard, CardGame.Objects.Cards.Minions.DyingBuffer, CardGame.Objects.Cards.Minions.DyingBuffer, CardGame.Objects.Cards.Minions.CrusaderGoblin, CardGame.Objects.Cards.Minions.CrusaderGoblin, CardGame.Objects.Cards.Minions.SacredSword, CardGame.Objects.Cards.Minions.WeaponMaster, CardGame.Objects.Cards.Minions.WeaponMaster, CardGame.Objects.Cards.Minions.DeadthParrot, CardGame.Objects.Cards.Minions.Crocker, CardGame.Objects.Cards.Minions.EmeraldDrake, CardGame.Objects.Cards.Minions.WildClanLeader, CardGame.Objects.Cards.Minions.DeadlyInsect, CardGame.Objects.Cards.Minions.DeadlyInsect, CardGame.Objects.Cards.Minions.TerrorOfRedwood, CardGame.Objects.Cards.Minions.TwinDragon, CardGame.Objects.Cards.Minions.ForestFather, CardGame.Objects.Cards.Minions.ForestGiant"
+}

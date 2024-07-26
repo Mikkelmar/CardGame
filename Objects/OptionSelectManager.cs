@@ -16,12 +16,13 @@ namespace CardGame.Objects
         private List<CardDiscover_Actor> CardsObjects = new List<CardDiscover_Actor>();
         private List<Card> _cards = new List<Card>();
         public bool canCancel = false;
-        private bool hide = false;
+        public bool hide = false;
         private bool canToggleHide = true;
         private Player createdBy;
         private ShowHideButton button;
         private ConfirmMuliganButton muliganButton;
         public Card SourceCard;
+        private bool off = false;
         public OptionSelectManager(List<Card> cards, Card fromCard=null, Player fromPlayer=null)
         {
             Debug.WriteLine("NEW OSM");
@@ -129,9 +130,16 @@ namespace CardGame.Objects
             }
             
         }
-        public void ToggleHide()
+
+        public void ToggleHide(Game1 g)
         {
             hide = !hide;
+            if (!hide)
+            {
+                g.gameBoard.gameHandler.SelectingTarget = false;
+                g.gameBoard.gameHandler.activeOptionSelection = true;
+            }
+            
         }
 
         public override void Update(GameTime gt, Game1 g)

@@ -54,6 +54,7 @@ namespace CardGame.Objects.Collection
                     g.collectionPage.objectManager.Add(_newCardDisplay, g);
                 }
             }
+            g.soundManager.PlaySound("cardPlace4", volume: 0.2f);
         }
 
         public override void Init(Game1 g)

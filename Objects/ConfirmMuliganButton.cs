@@ -24,7 +24,6 @@ namespace CardGame.Objects
             if (this.GetHitbox().Contains(x, y))
             {
                 g.gameBoard.networkHandler.SendMuliganConfirmed(playerMuligan.muligan.getWantToKeep());
-                g.gameBoard.gameHandler.StopSelecting(g);
             }
         }
 

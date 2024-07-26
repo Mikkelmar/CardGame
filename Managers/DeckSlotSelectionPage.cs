@@ -34,13 +34,13 @@ namespace CardGame.Objects.Collection
         public override void Init(Game1 g)
         {
             int sizeX = 700, sizeY = 400;
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < 15; i++)
             {
                 Deck deck = g.collectionPage.deckManager.LoadDeck($"deck_{i}.json");
                 deckSlots.Add(new DeckSlot(i, deck)
                 {
-                    X = 100 + (i % 3) * (sizeX + 100),
-                    Y = 100 + (i / 3) * (sizeY + 100 + 100),
+                    X = 100 + (i % 5) * (sizeX + 100),
+                    Y = 100 + (i / 5) * (sizeY + 100 + 100),
                     Width = sizeX,
                     Height = sizeY
                 });

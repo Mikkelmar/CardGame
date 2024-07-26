@@ -8,6 +8,7 @@ using Microsoft.Xna.Framework;
 using MonoGame.Extended;
 using System;
 
+
 namespace CardGame.Pages
 {
     public class CollectionPage : Page
@@ -43,6 +44,21 @@ namespace CardGame.Pages
             collectionManager = new CollectionManager();
             collectionManager.Init(g, deck);
             //C: \Users\mikke\source\repos\CardGame\Cards\cards.json
+            objectManager.Add(new Button("Share deck", (_g) => 
+                ClipboardHelper.SetText(g.collectionPage.collectionManager.deckBuilder.printCommaSeparatedCardList()),
+                scale: 2f)
+            { X = 4000, Y = 2500, Width = 300, Height = 180 }, g);
+
+            objectManager.Add(new Button("Load deck", (_g) =>
+                g.collectionPage.collectionManager.deckBuilder.SetDeck(g, cardManager.LoadDeckFromString(ClipboardHelper.GetText())),
+                scale: 2f)
+            { X = 4400, Y = 2500, Width = 300, Height = 180 }, g);
+
+            
+            
+            //objectManager.Add(new Button("Load deck", (_g) =>
+            //  ClipboardHelper.SetText(g.collectionPage.collectionManager.deckBuilder.d))
+            //{ X = 4000, Y = 1160, Width = 200, Height = 180 }, g);
 
             objectManager.Add(new OnlyCanAddButton()
             { X = 4000, Y = 960, Width = 800, Height = 180 }, g);

@@ -1,0 +1,5 @@
+{
+  "Name": "aa",
+  "HeroPower": 5,
+  "DeckContents": "CardGame.Objects.Cards.Minions.SpiritWalker, CardGame.Objects.Cards.Minions.SpiritWalker, CardGame.Objects.Cards.Minions.ShadowMage, CardGame.Objects.Cards.Minions.SmallMinion1, CardGame.Objects.Cards.Minions.SmallMinion1, CardGame.Objects.Cards.Minions.DrawGreedFavour, CardGame.Objects.Cards.Minions.DrawGreedFavour, CardGame.Objects.Cards.Minions.AnimalFirend, CardGame.Objects.Cards.Minions.AnimalFirend, CardGame.Objects.Cards.Minions.Crocker, CardGame.Objects.Cards.Minions.Crocker, CardGame.Objects.Cards.Minions.PowerMana, CardGame.Objects.Cards.Minions.PowerMana, CardGame.Objects.Cards.Minions.ForestKeeper, CardGame.Objects.Cards.Minions.ForestKeeper, CardGame.Objects.Cards.Minions.MindControl, CardGame.Objects.Cards.Minions.GiantStatues, CardGame.Objects.Cards.Minions.GiantStatues"
+}

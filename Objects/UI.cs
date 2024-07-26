@@ -2,6 +2,8 @@
 using CardGame.Managers;
 using CardGame.Managers.GameManagers;
 using CardGame.Objects.Cards;
+using CardGame.PanimaionSystem;
+using CardGame.PanimaionSystem.Animations;
 using Engine;
 using Microsoft.Xna.Framework;
 using System.Diagnostics;
@@ -167,6 +169,24 @@ namespace CardGame.Objects
         public override void Init(Game1 g)
         {
             g.gameBoard.mouseManager.AddHover(this);
+            g.gameBoard.gameHandler.player1.CardDiscarded += createDiscardCardAnimation;
+            g.gameBoard.gameHandler.player2.CardDiscarded += createDiscardCardAnimation;
+
+        }
+        private void createDiscardCardAnimation(Game1 g, Card card)
+        {
+            CardHand_Actor actor = g.gameBoard.gameInterface.getPlayer(card.belongToPlayer).visualHand.getCardActor(card);
+            if (actor == null)
+            {
+                return;
+            }
+            Vector2 startPos = actor.position;
+            Vector2 endpos = startPos + new Vector2(0, 900);
+            if (card.belongToPlayer.id == g.gameBoard.isPlayer.id)
+            {
+                endpos = startPos - new Vector2(0, 900);
+            }
+            QueueManager.Enqueue(new DiscardCardAnimation(card, 3.1f, startPos, endpos));
         }
 
         public override void Update(GameTime gt, Game1 g)

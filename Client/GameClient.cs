@@ -203,17 +203,25 @@ namespace CardGame.Client
         {
             string cardID = messageObject.GetProperty("cardID").ToString();
 
-            Card sourceCard = g.gameBoard.gameHandler.optionSelectManager.SourceCard;
-            Card Target = g.gameBoard.gameHandler.optionSelectManager.GetCards().Find(c => c.UniqueID.Equals(cardID));
-            g.gameBoard.gameHandler.ActivateCard(g, Target, sourceCard.belongToPlayer);
+            Card sourceCard = g.gameBoard.gameHandler.optionSelectManager.Peek().SourceCard;
+            Card selectedCard = g.gameBoard.gameHandler.optionSelectManager.Peek().GetCards().Find(c => c.UniqueID.Equals(cardID));
+
+            string targetID = messageObject.GetProperty("targetID").ToString();
+            if (!targetID.Equals("null"))
+            {
+                Card target = g.gameBoard.gameHandler.getAllCharacters().Find(c => c.UniqueID.Equals(targetID));
+                selectedCard.getTarget(g, (MinionCard)target);
+            }
+
+            g.gameBoard.gameHandler.ActivateCard(g, selectedCard, sourceCard.belongToPlayer);
             g.gameBoard.gameHandler.StopSelecting(g);
         }
         private void CardSelected(Game1 g, JsonElement messageObject)
         {
             string cardID = messageObject.GetProperty("cardID").ToString();
 
-            Card sourceCard = g.gameBoard.gameHandler.optionSelectManager.SourceCard;
-            Card Target = g.gameBoard.gameHandler.optionSelectManager.GetCards().Find(c => c.UniqueID.Equals(cardID));
+            Card sourceCard = g.gameBoard.gameHandler.optionSelectManager.Peek().SourceCard;
+            Card Target = g.gameBoard.gameHandler.optionSelectManager.Peek().GetCards().Find(c => c.UniqueID.Equals(cardID));
             ((CraftCreator)sourceCard).optionSelected(g, Target);
             g.gameBoard.gameHandler.StopSelecting(g);
 

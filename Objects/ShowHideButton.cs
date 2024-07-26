@@ -18,7 +18,7 @@ namespace CardGame.Objects
         {
             if (this.GetHitbox().Contains(x, y))
             {
-                source.ToggleHide();
+                source.ToggleHide(g);
             }
         }
 
